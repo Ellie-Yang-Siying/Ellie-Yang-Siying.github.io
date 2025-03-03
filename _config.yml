@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ellie Yang/ Site Title"
+title                    : "Ellie Yang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "Ellie-Yang-Siying/Ellie-Yang-Siying.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ElliePhoto.png"
   name             : "Ellie Yang"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Aspiring Data Scientist, Master of Analytics 25'@MIT"
   location         : "Cambridge, Massachusetts"
   school           : "Massachusetts Institute of Technology"
