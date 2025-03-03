@@ -14,6 +14,9 @@ You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_0226.pdf)
 
 Feel free to reach out to me via [Email](mailto:ellie.yang02siying@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/).
 
-
-[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-Click%20Here-blue?style=for-the-badge)](https://ellie-yang-siying.github.io/portfolio/)
+<a href="https://ellie-yang-siying.github.io/portfolio/" target="_blank">
+    <button style="background-color:#0078D4; color:white; padding:15px 30px; font-size:18px; font-weight:bold; border:none; border-radius:8px; cursor:pointer;">
+        View My Projects
+    </button>
+</a>
 
