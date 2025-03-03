@@ -24,13 +24,13 @@
   }
 
   .page__inner-wrap {
-    // @include full();
-    width: 90%; /* 让它填充更多空间，但不超出页面 */
-    max-width: 1200px; /* 避免过宽 */
-    margin: 0 auto !important; /* 确保居中 */
-    display: block; /* 避免 flex 影响布局 */
-    padding-left: 2em; /* 增加左边距 */
-    padding-right: 2em;
+    @include full();
+    // width: 90%; /* 让它填充更多空间，但不超出页面 */
+    // max-width: 1200px; /* 避免过宽 */
+    // margin: 0 auto !important; /* 确保居中 */
+    // display: block; /* 避免 flex 影响布局 */
+    // // padding-left: 2em; /* 增加左边距 */
+    // // padding-right: 2em;
      
     .page__content,
     .page__meta,
