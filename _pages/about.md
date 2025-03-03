@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Ellie Yang! I'm a student at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), pursuing [Master of Business Analytics (Data Science)](https://mitsloan.mit.edu/master-of-business-analytics/explore-program) degree, and I will graduate in August 2025. I am an aspiring data scientist passionate about using data to drive business impact.
+Hi, I'm Ellie Yang! I'm currently pursuing [Master of Business Analytics (Data Science)](https://mitsloan.mit.edu/master-of-business-analytics/explore-program) degree at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), and expect to graduate in August 2025. As an aspiring data scientist, I am passionate about leveraging data to drive meaningful business impact.
 
-Previously, I graduated from Tsinghua University with Bachelor of Science in Math and Physics, and Bachelor of Engineering in Energy. I gained diverse industry experience in data science in tech, e-commerce, retail, consulting, insurance and private equity firms, including Campbell's, Thermo Fisher Scientific, MassMutual, Poizon and Oliver Wyman.
+Previously, I earned a Bachelor of Science in Math and Physics and a Bachelor of Engineering in Energy from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I have gained diverse experience in data science across various industries, including tech, e-commerce, retail, consulting, insurance, and private equity. My past roles include work with [Campbell’s](https://www.thecampbellscompany.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [MassMutual](https://www.massmutual.com/), [POIZON](https://www.poizon.com/about-us), and [Oliver Wyman](https://www.oliverwyman.com/index.html).
 
 You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_0226.pdf)
 
-[Email](mailto:ellie.yang02siying@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/)
+Feel free to reach out to me via [Email](mailto:ellie.yang02siying@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/).
 
 A data-driven personal website
 ======
