@@ -6,8 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, I'm Ellie Yang! I'm a student at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), pursuing [Master of Business Analytics (Data Science)](https://mitsloan.mit.edu/master-of-business-analytics/explore-program) degree, and I will graduate in August 2025. I am an aspiring data scientist passionate about using data to drive business impact.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Previously, I graduated from Tsinghua University with Bachelor of Science in Math and Physics, and Bachelor of Engineering in Energy. I gained diverse industry experience in data science in tech, e-commerce, retail, consulting, insurance and private equity firms, including Campbell's, Thermo Fisher Scientific, MassMutual, Poizon and Oliver Wyman.
+
+You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_0226.pdf)
+
+[Email](ellie.yang02siying@gmail.com) / [LinkedIn] (https://www.linkedin.com/in/siying-ellie-yang/)
 
 A data-driven personal website
 ======
