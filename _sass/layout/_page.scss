@@ -24,7 +24,10 @@
   }
 
   .page__inner-wrap {
-    @include full();
+    // @include full();
+    width: 100% !important;  /* 让它填满 .page */
+    max-width: 100% !important; /* 防止 max-width 限制 */
+    display: block; /* 让它扩展整个区域 */
 
     .page__content,
     .page__meta,
