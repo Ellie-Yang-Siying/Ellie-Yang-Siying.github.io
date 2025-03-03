@@ -9,6 +9,8 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+  z-index: 1000; /* 确保 Sidebar 不会覆盖正文 */
+  background-color: var(--global-bg-color); /* 让 Sidebar 有自己的背景 */
 
   @include clearfix();
   margin-bottom: 1em;
