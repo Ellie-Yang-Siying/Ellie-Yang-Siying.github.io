@@ -25,7 +25,8 @@ author:
   avatar           : "ElliePhoto.png"
   name             : "Ellie Yang"
   pronouns         : # "she/her"  
-  bio              : "Aspiring Data Scientist\nMaster of Analytics 25'@MIT"
+  bio              : | Aspiring Data Scientist
+                      Master of Analytics 2025 @ MIT
   location         : "Cambridge, Massachusetts"
   school           : "Massachusetts Institute of Technology"
   uri              : # URL
