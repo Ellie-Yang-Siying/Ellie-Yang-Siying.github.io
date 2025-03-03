@@ -57,11 +57,13 @@
 
   p, li, dl {
     font-size: 1em;
+    text-align: justify; /* 让正文文本两端对齐 */
   }
 
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    text-align: justify; /* 确保段落两端对齐 */
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
