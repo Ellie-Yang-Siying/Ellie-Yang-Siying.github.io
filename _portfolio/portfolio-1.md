@@ -2,7 +2,7 @@
 title: "Multimodality and Stacking Ensemble Models in Demand Prediction"
 excerpt: "Machine Learning Project 1<br/><img src='/images/portgitML.png'>"
 collection: portfolio
----
+--- 
 
 Classified advertisement platforms, such as Avito, serve as crucial facilitators of online commerce,
 connecting millions of users daily. This project aims to predict the likelihood of a successful deal by
