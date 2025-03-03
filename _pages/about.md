@@ -12,7 +12,7 @@ Previously, I graduated from Tsinghua University with Bachelor of Science in Mat
 
 You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_0226.pdf)
 
-[Email](ellie.yang02siying@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/)
+[Email](mailto:ellie.yang02siying@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/)
 
 A data-driven personal website
 ======
