@@ -1,6 +1,6 @@
 ---
 title: "Multimodality and Stacking Ensemble Models in Demand Prediction"
-excerpt: 'This project explores the use of multi-modal machine learning models to predict the likelihood of a successful deal on Avito, Russia's largest classified advertisement platform. By integrating tabular, text, and image data, we demonstrate that ensemble learning and deep feature extraction significantly improve predictive performance. <br/><img src='/images/portgitML.png' width="500" height="300">'
+excerpt: "This project explores the use of multi-modal machine learning models to predict the likelihood of a successful deal on Avito, Russia's largest classified advertisement platform. By integrating tabular, text, and image data, we demonstrate that ensemble learning and deep feature extraction significantly improve predictive performance. <br/><img src='/images/portgitML.png'>"
 collection: portfolio
 --- 
 
