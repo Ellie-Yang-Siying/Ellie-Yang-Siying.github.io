@@ -6,6 +6,7 @@ excerpt: >
   <br/><img src="/images/portgitML.png" style="width:500px; height:300px;">
 collection: portfolio
 --- 
+View this project on my github: [Link Here](https://github.com/Ellie-Yang-Siying/Multimodality-and-Stacking-Ensemble-Models-in-Demand-Prediction)
 
 Classified advertisement platforms, such as Avito, serve as crucial facilitators of online commerce,
 connecting millions of users daily. This project aims to predict the likelihood of a successful deal by
