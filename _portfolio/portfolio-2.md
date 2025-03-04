@@ -2,7 +2,7 @@
 title: "Exploring Unsupervised Learning for Stock Returns Forecasting"
 excerpt: >
   This Project explores the hypothesis that clustering stocks by time series similarity enhances the accuracy of the forecasting models.  
-  <br/><img src="/images/Edge.png" style="width:800px; height:400px;">
+  <br/><img src="/images/Edge.png" style="width:700px; height:350px;">
 collection: portfolio
 ---
 
