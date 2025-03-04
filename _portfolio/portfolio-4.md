@@ -5,7 +5,7 @@ excerpt: >
   <br/><img src="/images/Customer.png" style="width:700px; height:350px;">
 collection: portfolio
 --- 
-View this project on my Github: [Link Here]([https://github.com/Ellie-Yang-Siying/Multimodality-and-Stacking-Ensemble-Models-in-Demand-Prediction](https://github.com/Ellie-Yang-Siying/Customer-Segmentation-and-Marketing-Strategy-Advice-from-a-Statistical-Perspective))
+View this project on my Github: [Link Here](https://github.com/Ellie-Yang-Siying/Customer-Segmentation-and-Marketing-Strategy-Advice-from-a-Statistical-Perspective)
 
 ![Poster](/images/Customer_Poster.png)
 
