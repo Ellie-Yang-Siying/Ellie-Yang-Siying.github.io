@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Emergency Response: An Optimized Ambulance Dispatch Model for Manhattan"
 excerpt: >
-This project examines optimization strategies to minimize ambulance response times in Manhattan: a min-sum model, a min-max model, and robust versions of both. The goal is to improve emergency medical services (EMS) efficiency while addressing equity and uncertainty challenges. Our approach integrates real-world constraints to provide actionable recommendations for dispatch optimization. 
+  This Project examines optimization strategies to minimize ambulance response times in Manhattan: a min-sum model, a min-max model, and robust versions of both. The goal is to improve emergency medical services (EMS) efficiency while addressing equity and uncertainty challenges. Our approach integrates real-world constraints to provide actionable recommendations for dispatch optimization. 
   <br/><img src="/images/Opti.png" style="width:700px; height:350px;">
 collection: portfolio
 ---
