@@ -12,8 +12,8 @@ Previously, I earned a Bachelor of Science in Math and Physics and a Bachelor of
 
 You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_0226.pdf).
 
-Feel free to reach out to me via Email: ellie.yang02siying@gmail.com / [LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/).
-
+My Email: ellie.yang02siying@gmail.com 
+[My LinkedIn](https://www.linkedin.com/in/siying-ellie-yang/).
 My Github: [Github: Ellie-Yang-Siying](https://github.com/Ellie-Yang-Siying)
 
 
