@@ -3,10 +3,10 @@ title: "Multimodality and Stacking Ensemble Models in Demand Prediction"
 excerpt: >
   This project explores the use of multi-modal machine learning models to predict the likelihood of a successful deal on Avito, Russia's largest classified advertisement platform.
   By integrating tabular, text, and image data, we demonstrate that ensemble learning and deep feature extraction significantly improve predictive performance.
-  <br/><img src="/images/portgitML.png" style="width:500px; height:300px;">
+  <br/><img src="/images/portgitML.png" style="width:800px; height:400px;">
 collection: portfolio
 --- 
-View this project on my github: [Link Here](https://github.com/Ellie-Yang-Siying/Multimodality-and-Stacking-Ensemble-Models-in-Demand-Prediction)
+View this project on my Github: [Link Here](https://github.com/Ellie-Yang-Siying/Multimodality-and-Stacking-Ensemble-Models-in-Demand-Prediction)
 
 Classified advertisement platforms, such as Avito, serve as crucial facilitators of online commerce,
 connecting millions of users daily. This project aims to predict the likelihood of a successful deal by
