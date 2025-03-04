@@ -1,7 +1,7 @@
 ---
 title: "Exploring Unsupervised Learning for Stock Returns Forecasting"
 excerpt: >
-This Project explores the hypothesis that clustering stocks by time series similarity enhances the accuracy of the forecasting models. <br/><img src="/images/Edge.png style="width:800px; height:400px;">
+This Project explores the hypothesis that clustering stocks by time series similarity enhances the accuracy of the forecasting models. <img src="/images/Edge.png" style="width:800px; height:400px;">
 collection: portfolio
 ---
 View this project on my Github: [Link Here](https://github.com/Ellie-Yang-Siying/Exploring-Unsupervised-Learning-for-Stock-Returns-Forecasting)
