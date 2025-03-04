@@ -2,10 +2,12 @@
 title: "Customer Segmentation and Marketing Strategy Advice from a Statistical Perspective"
 excerpt: >
   Customer analysis is a vital component of any successful business strategy. By leveraging advanced data analysis techniques, we can gain a deeper understanding of our customers and tailor our products and operations to better meet their needs and preferences. In our project, we employ a range of analytical methods, including EDA, clustering, multiple linear regression, and machine learning for regression and classification. Through this analysis, we can gain valuable insights into the characteristics and spending behaviors of our customers. This information enables us to make informed decisions about marketing strategies and improve the overall success of the business.
-  <br/><img src="/images/portgitML.png" style="width:700px; height:350px;">
+  <br/><img src="/images/Customer.png" style="width:700px; height:350px;">
 collection: portfolio
 --- 
 View this project on my Github: [Link Here]([https://github.com/Ellie-Yang-Siying/Multimodality-and-Stacking-Ensemble-Models-in-Demand-Prediction](https://github.com/Ellie-Yang-Siying/Customer-Segmentation-and-Marketing-Strategy-Advice-from-a-Statistical-Perspective))
+
+![Poster](/images/Customer_Poster.png)
 
 
 First, we use hierarchical clustering to Identify the characteristics of different customer groups, divide customers into three groups - generous people, low-income people, Middle Group, and summarize the characteristics of the three groups of people, which will help the company improve marketing and promotional strategies. Then we use the method of multiple linear regression to conduct multiple regression analysis on consumption to study the relationship between each variable and consumption. We found that the logarithm of income has a significant impact on consumption, which is consistent with the classic psychological law; the larger the number of children, the lower the consumption; different commodities depend on different sales channels, online and offline sales should be more targeted.
