@@ -1,11 +1,11 @@
 ---
-title: "Evolution Characteristics and Trend Prediction of Farmland Soil Organic Carbon in Shanxi, China"
+title: "Optimizing Online Advertisement Using Adaptive Learning Techniques"
 excerpt: >
   This project demonstrates that adaptive machine learning and reinforcement learning techniques offer superior ad targeting strategies, enabling businesses to reduce inefficient spending, improve engagement, and enhance marketing ROI in real-time digital advertising environments. 
-  <br/><img src="/images/thesis2.png" style="width:700px; height:350px;"> 
+  <br/><img src="/images/Realtimepor.png" style="width:700px; height:350px;"> 
 collection: portfolio
 --- 
-View this project on my Github: [Link Here](https://github.com/Ellie-Yang-Siying/Evolution-Characteristics-and-Trend-Prediction-of-Farmland-Soil-Organic-Carbon-in-Shanxi-China)
+View this project on my Github: [Link Here](https://github.com/Ellie-Yang-Siying/OPTIMIZING-ONLINE-ADVERTISING-USING-ADAPTIVE-LEARNING-TECHNIQUES)
 
 In the evolving landscape of digital advertising, optimizing ad placements and bidding strategies in real-time remains a significant challenge for businesses. Traditional methods relying on historical data and static models often lead to
 suboptimal ad targeting and inefficient budget allocation. This project leverages adaptive learning techniques, including machine learning models and reinforcement learning-based Multi-Armed Bandits (MAB), to enhance ad click-through
