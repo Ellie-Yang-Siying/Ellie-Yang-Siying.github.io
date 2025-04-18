@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my most recent cv:
-[EllieYang_CV.pdf](https://github.com/user-attachments/files/19064002/EllieYang_0226.pdf)
+You can find my CV here: [Ellie Yang's CV](../assets/EllieYang_Resume.pdf).
 
 
 Education
